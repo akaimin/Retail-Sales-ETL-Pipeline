@@ -1,0 +1,201 @@
+shop_id,shop_name,branch_name,file_dt
+81,Michael,Phuket,2026-01-02
+43,Andrew,Bangkok,2026-01-02
+106,Joseph,Chonburi,2026-01-02
+6,Ethan,Hat Yai,2026-01-02
+62,Nicholas,Chonburi,2026-01-02
+103,Nicholas,Udon Thani,2026-01-02
+116,Nicholas,Chiang Mai,2026-01-02
+39,Thomas,Nakhon Ratchasima,2026-01-02
+14,Alexander,Nakhon Ratchasima,2026-01-02
+22,Joseph,Phuket,2026-01-02
+99,Alexander,Chiang Mai,2026-01-02
+137,William,Bangkok,2026-01-02
+128,James,Ayutthaya,2026-01-02
+53,Robert,Khon Kaen,2026-01-02
+104,Michael,Chonburi,2026-01-02
+137,Charles,Hat Yai,2026-01-02
+72,Ryan,Nakhon Ratchasima,2026-01-02
+115,Jacob,Nakhon Ratchasima,2026-01-02
+133,John,Pattaya,2026-01-02
+18,Alexander,Pattaya,2026-01-02
+79,William,Pattaya,2026-01-02
+21,James,Udon Thani,2026-01-02
+80,Daniel,Khon Kaen,2026-01-02
+63,Robert,Bangkok,2026-01-02
+,William,Udon Thani,2026-01-02
+41,Thomas,Udon Thani,2026-01-02
+44,William,Pattaya,2026-01-02
+106,John,Hat Yai,2026-01-02
+11,Benjamin,Phuket,2026-01-02
+76,James,Nakhon Ratchasima,2026-01-02
+26,William,Udon Thani,2026-01-02
+149,Ryan,Phuket,2026-01-02
+49,Jacob,Ayutthaya,2026-01-02
+102,Michael,Hat Yai,2026-01-02
+54,James,Ayutthaya,2026-01-02
+86,Nicholas,Khon Kaen,2026-01-02
+130,John,Pattaya,2026-01-02
+56,John,Bangkok,2026-01-02
+92,Benjamin,Chiang Mai,2026-01-02
+123,Ryan,Bangkok,2026-01-02
+40,Michael,Udon Thani,2026-01-02
+12,Joseph,Bangkok,2026-01-02
+115,Ryan,Udon Thani,2026-01-02
+71,Benjamin,Hat Yai,2026-01-02
+67,Michael,Chonburi,2026-01-02
+132,Nicholas,Udon Thani,2026-01-02
+74,Charles,Udon Thani,2026-01-02
+99,Nicholas,Chiang Mai,2026-01-02
+55,David,Khon Kaen,2026-01-02
+64,Matthew,Udon Thani,2026-01-02
+38,Ryan,Ayutthaya,2026-01-02
+136,Benjamin,Chonburi,2026-01-02
+68,Joseph,Chonburi,2026-01-02
+50,Andrew,Chiang Mai,2026-01-02
+29,Christopher,Nakhon Ratchasima,2026-01-02
+69,David,Chonburi,2026-01-02
+21,Charles,Chonburi,2026-01-02
+62,Alexander,Hat Yai,2026-01-02
+109,Jacob,Chonburi,2026-01-02
+65,William,Chiang Mai,2026-01-02
+114,Matthew,Phuket,2026-01-02
+113,Ethan,Udon Thani,2026-01-02
+90,Christopher,Khon Kaen,2026-01-02
+140,Charles,Udon Thani,2026-01-02
+117,Andrew,Pattaya,2026-01-02
+75,Alexander,Khon Kaen,2026-01-02
+97,Andrew,Chonburi,2026-01-02
+42,Matthew,Khon Kaen,2026-01-02
+118,Benjamin,Hat Yai,2026-01-02
+135,David,Khon Kaen,2026-01-02
+2,William,Chonburi,2026-01-02
+142,Christopher,Chiang Mai,2026-01-02
+4,David,Nakhon Ratchasima,2026-01-02
+15,Jacob,Khon Kaen,2026-01-02
+23,Nicholas,Pattaya,2026-01-02
+33,James,Chiang Mai,2026-01-02
+112,Robert,Udon Thani,2026-01-02
+93,Ryan,Pattaya,2026-01-02
+140,Robert,Chiang Mai,2026-01-02
+131,Ethan,Hat Yai,2026-01-02
+,Andrew,Chonburi,2026-01-02
+83,Daniel,Pattaya,2026-01-02
+19,Alexander,Chonburi,2026-01-02
+134,Matthew,Ayutthaya,2026-01-02
+140,James,Ayutthaya,2026-01-02
+101,Charles,Khon Kaen,2026-01-02
+47,Robert,Phuket,2026-01-02
+91,Jacob,Pattaya,2026-01-02
+71,Christopher,Chiang Mai,2026-01-02
+9,Benjamin,Hat Yai,2026-01-02
+27,James,Ayutthaya,2026-01-02
+73,Christopher,Ayutthaya,2026-01-02
+147,Charles,Pattaya,2026-01-02
+33,Ethan,Chonburi,2026-01-02
+37,Christopher,Udon Thani,2026-01-02
+73,Andrew,Chonburi,2026-01-02
+3,John,Hat Yai,2026-01-02
+77,Andrew,Chonburi,2026-01-02
+82,Christopher,Phuket,2026-01-02
+111,Jacob,Bangkok,2026-01-02
+141,Benjamin,Chiang Mai,2026-01-02
+85,Benjamin,Udon Thani,2026-01-02
+,Matthew,Bangkok,2026-01-02
+59,William,Bangkok,2026-01-02
+16,Joseph,Pattaya,2026-01-02
+77,Benjamin,Khon Kaen,2026-01-02
+,Joseph,Khon Kaen,2026-01-02
+51,Daniel,Khon Kaen,2026-01-02
+8,Nicholas,Chiang Mai,2026-01-02
+46,Ryan,Phuket,2026-01-02
+83,Ryan,Chiang Mai,2026-01-02
+66,Alexander,Khon Kaen,2026-01-02
+3,Alexander,Khon Kaen,2026-01-02
+88,Andrew,Khon Kaen,2026-01-02
+13,Ryan,Udon Thani,2026-01-02
+47,Daniel,Pattaya,2026-01-02
+110,James,Khon Kaen,2026-01-02
+31,Christopher,Udon Thani,2026-01-02
+76,Thomas,Hat Yai,2026-01-02
+131,David,Chiang Mai,2026-01-02
+89,Joseph,Ayutthaya,2026-01-02
+48,Nicholas,Khon Kaen,2026-01-02
+89,Alexander,Chiang Mai,2026-01-02
+5,Thomas,Chiang Mai,2026-01-02
+145,Andrew,Ayutthaya,2026-01-02
+122,Andrew,Nakhon Ratchasima,2026-01-02
+149,Nicholas,Phuket,2026-01-02
+147,Nicholas,Udon Thani,2026-01-02
+126,Joseph,Chiang Mai,2026-01-02
+26,Matthew,Ayutthaya,2026-01-02
+92,Jacob,Khon Kaen,2026-01-02
+40,Ryan,Hat Yai,2026-01-02
+108,Michael,Pattaya,2026-01-02
+122,Charles,Nakhon Ratchasima,2026-01-02
+39,Nicholas,Bangkok,2026-01-02
+100,Alexander,Khon Kaen,2026-01-02
+35,Charles,Pattaya,2026-01-02
+61,Nicholas,Udon Thani,2026-01-02
+25,Joseph,Khon Kaen,2026-01-02
+146,Matthew,Nakhon Ratchasima,2026-01-02
+127,Charles,Ayutthaya,2026-01-02
+148,Christopher,Udon Thani,2026-01-02
+10,Alexander,Phuket,2026-01-02
+12,Ethan,Khon Kaen,2026-01-02
+36,Andrew,Chonburi,2026-01-02
+111,David,Pattaya,2026-01-02
+105,John,Nakhon Ratchasima,2026-01-02
+78,John,Chonburi,2026-01-02
+119,Joseph,Chiang Mai,2026-01-02
+17,Michael,Khon Kaen,2026-01-02
+57,Ryan,Khon Kaen,2026-01-02
+71,James,Chonburi,2026-01-02
+144,David,Udon Thani,2026-01-02
+7,James,Nakhon Ratchasima,2026-01-02
+121,Benjamin,Udon Thani,2026-01-02
+60,Jacob,Khon Kaen,2026-01-02
+28,Daniel,Chiang Mai,2026-01-02
+96,John,Phuket,2026-01-02
+98,Jacob,Khon Kaen,2026-01-02
+150,Charles,Pattaya,2026-01-02
+26,Ethan,Udon Thani,2026-01-02
+95,David,Chiang Mai,2026-01-02
+117,Nicholas,Hat Yai,2026-01-02
+32,Nicholas,Udon Thani,2026-01-02
+138,Christopher,Phuket,2026-01-02
+68,John,Phuket,2026-01-02
+4,Ryan,Nakhon Ratchasima,2026-01-02
+125,Ryan,Bangkok,2026-01-02
+59,Thomas,Pattaya,2026-01-02
+25,John,Khon Kaen,2026-01-02
+143,Alexander,Chiang Mai,2026-01-02
+102,Ethan,Ayutthaya,2026-01-02
+18,Christopher,Khon Kaen,2026-01-02
+59,Michael,Nakhon Ratchasima,2026-01-02
+58,David,Udon Thani,2026-01-02
+37,Thomas,Udon Thani,2026-01-02
+20,Charles,Hat Yai,2026-01-02
+120,Robert,Hat Yai,2026-01-02
+30,Nicholas,Ayutthaya,2026-01-02
+87,John,Pattaya,2026-01-02
+13,Nicholas,Khon Kaen,2026-01-02
+124,Alexander,Chiang Mai,2026-01-02
+66,Charles,Udon Thani,2026-01-02
+43,Matthew,Pattaya,2026-01-02
+70,Andrew,Chiang Mai,2026-01-02
+129,Alexander,Nakhon Ratchasima,2026-01-02
+,Alexander,Udon Thani,2026-01-02
+113,John,Chonburi,2026-01-02
+139,Andrew,Ayutthaya,2026-01-02
+49,Matthew,Phuket,2026-01-02
+52,Christopher,Hat Yai,2026-01-02
+45,Joseph,Chiang Mai,2026-01-02
+107,Matthew,Bangkok,2026-01-02
+61,Charles,Chonburi,2026-01-02
+84,Robert,Bangkok,2026-01-02
+76,Jacob,Nakhon Ratchasima,2026-01-02
+24,Thomas,Khon Kaen,2026-01-02
+34,Andrew,Pattaya,2026-01-02
+114,Thomas,Chonburi,2026-01-02
+94,David,Khon Kaen,2026-01-02
